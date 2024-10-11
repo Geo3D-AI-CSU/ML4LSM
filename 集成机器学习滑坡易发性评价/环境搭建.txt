@@ -1,0 +1,12 @@
+第一步（安装anaconda）：在https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/下载Anaconda3-5.3.0-Windows-x86_64.exe，并安装；
+第二步（更换源）：打开anaconda prompt，在里面输入conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+                                                 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+                                                 conda config --set show_channel_urls yes
+
+参加（https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/）
+第三步（安装sklearn和tensorflow包）：在anaconda prompt中输入pip install scikit-learn和pip install tensorflow
+第四步：用spyder或者Jupiter notebook写代码都行
+       
+ 推荐一个学习网站https://morvanzhou.github.io/
+
+

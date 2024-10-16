@@ -10,5 +10,5 @@ The current study aims to apply and compare the performance of six machine learn
 # Data availability
 The data that support the findings of this study are available on request from the corresponding author 
 
-# 鸣谢
+# Funding
 This study was supported by grants from the Hunan Provincial Natural Resource Science and Technology Planning Program of China (Grant No. 2021-53), the National Natural Science Foundation of China (Grant Nos. 42072326 and 41772348), and the National Key Research and Development Program of China (Grant No. 2019YFC1805905).
